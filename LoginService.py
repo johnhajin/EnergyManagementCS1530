@@ -4,7 +4,7 @@ import sqlite3
 
 class LoginService:
     def __init__(self):
-        self.conn = sqlite3.connect("resources/users.db")
+        self.conn = sqlite3.connect("resources/energy.db")
         self.cursor = self.conn.cursor()
 
     def verify_password(self, username, password):
