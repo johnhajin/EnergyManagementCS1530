@@ -11,5 +11,7 @@ input username and password of user and click login. if login succeeds it will b
 valid users are (case sensitive)
 
 username: testUser1, password: password
+
 username: testUser2, password: ilovecs
+
 username: testUser2, password: secure
