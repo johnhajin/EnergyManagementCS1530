@@ -15,3 +15,14 @@ username: testUser1, password: password
 username: testUser2, password: ilovecs
 
 username: testUser2, password: secure
+
+Steps to run on local machine:
+1. Clone Repo
+2. Open the main directory of repo
+3. Run main.py with pycharm, vscode, or run in terminal with the commands:
+  'python main.py'
+        OR
+  'python3 main.py'
+  depending on what python you have installed.
+4. Enter proper login credentials which can be found above in this readme file.
+5. Click on the login button and you will be brought to the device summary page
